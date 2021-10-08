@@ -5,25 +5,19 @@
 }
 
 .container{
-
     width: 85%;
     margin: auto;
-    /* TEST */
-
 }
 
 .product{
     width:30%;
     background: white;
     display: inline-block 
-    
 }
 
 .product-image{
     display: inline-block;
-    
     position: relative;
-   
 }
 
 .square-heart{
@@ -45,7 +39,6 @@
     
 img{
     width: 100%;
-    
 }
 
 .product-image .img-top{
@@ -62,7 +55,7 @@ img{
 .discount{
     background-color: red;
     color: white;
-    display: inline-block;
+    
     width: 30px;
     text-align: center;
     position: absolute;
@@ -74,13 +67,12 @@ img{
     border-radius: 3%;
     z-index: 1;
     padding: 0px 0px;
-    
 }
 
 .tag{
     background-color: green;
     color: white;
-    display: inline-block;
+    
     width: 80px;
     text-align: center;
     position: absolute;
